@@ -5,14 +5,14 @@ The website is fully responsive and designed for different screen sizes includin
 
 #Features Implemented 
 
-Project folder structure created
-Basic project setup completed
-Responsive Navigation Bar implemented
-Hero / Home Section developed
-About Section designed and implemented
-Profile information and image added
-Modern and attractive CSS styling applied
-Responsive design for mobile and desktop view
-Initial README documentation created and updated
+-Project folder structure created
+-Basic project setup completed
+-Responsive Navigation Bar implemented
+-Hero / Home Section developed
+-About Section designed and implemented
+-Profile information and image added
+-Modern and attractive CSS styling applied
+-Responsive design for mobile and desktop view
+-Initial README documentation created and updated
 
 
